@@ -18,6 +18,14 @@ libiconv
 
 http://www.gnu.org/software/libiconv/
 
+EUC-JIS-2004 Text File
+
+http://x0213.org/codetable/euc-jis-2004-with-char.txt
+
+Shift_JIS-2004 Text File
+
+http://x0213.org/codetable/sjis-0213-2004-with-char.txt
+
 ---
 
 ## Build

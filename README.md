@@ -1,5 +1,10 @@
 # difference-between-nkf-and-iconv
 
+## Environment
+
+* cygwin 2.0.2 (0.287/5/3)
+* gcc 4.9.2
+
 ## Version
 
 * nkf 2.1.3
